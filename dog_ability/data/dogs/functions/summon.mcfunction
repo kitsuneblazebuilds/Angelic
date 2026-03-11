@@ -1,3 +1,6 @@
+# ensure only angelten can run this function; abort otherwise
+execute unless entity @s[name=angelten] run return
+
 # Summon 3 black armored wolves near the player
 
 # First wolf - offset to the left
