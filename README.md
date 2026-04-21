@@ -62,4 +62,4 @@ The model files live in `resourcepack/assets/minecraft/...` and reference the or
 * `resourcepack/assets/minecraft/models/item/netherite_sword.json` — adds an override mapping `custom_model_data=1` to `item/dark_blade`
 * `resourcepack/assets/minecraft/textures/item/dark_blade.png` — texture (copied from `Models/Dark Blade/dark_blade.png`)
 
-You can update the `CustomModelData` value or use a different base item if desired; just adjust the commands in `dogs/functions/load.mcfunction` and `tick.mcfunction` accordingly.
+You can update the `CustomModelData` value or use a different base item if desired; just adjust the commands in `dogs/functions/load.mcfunction` and `tick.mcfunction` accordingly. MADE BY HEVANGEL
